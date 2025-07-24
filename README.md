@@ -8,3 +8,13 @@ NexMeet is a full-stack video conferencing web app inspired by Zoom, built to de
 - **Features:** Real-time video/audio, room management, chat, screen sharing, and more.
 
 
+## ✨ Key Features
+
+- 🔹 Create & Join custom meeting rooms
+- 🔹 Real-time video and audio communication (WebRTC)
+- 🔹 Peer-to-peer media streams with Socket.io signaling
+- 🔹 Room-level chat messaging (optional)
+- 🔹 Simple and responsive UI (React + Tailwind)
+- 🔹 Works without login (guest-friendly)
+
+
