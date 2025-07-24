@@ -7,6 +7,4 @@ NexMeet is a full-stack video conferencing web app inspired by Zoom, built to de
 - **Backend:** Node.js, Express, Socket.io
 - **Features:** Real-time video/audio, room management, chat, screen sharing, and more.
 
-## 📂 Folder Structure & Setup
-This project uses a monorepo-style folder layout:
 
